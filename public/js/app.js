@@ -34764,6 +34764,10 @@ var HomePage = function HomePage() {
   return Promise.all(/*! import() | group-foo */[__webpack_require__.e("vendors~group-foo"), __webpack_require__.e("group-foo")]).then(__webpack_require__.bind(null, /*! ./components/Dashboard.vue */ "./resources/js/components/Dashboard.vue"));
 };
 
+var HomePage1 = function HomePage1() {
+  return Promise.all(/*! import() | group-foo */[__webpack_require__.e("vendors~group-foo"), __webpack_require__.e("group-foo")]).then(__webpack_require__.bind(null, /*! ./components/Dashboard1.vue */ "./resources/js/components/Dashboard1.vue"));
+};
+
 var UploadDataFiles = function UploadDataFiles() {
   return Promise.all(/*! import() | group-foo */[__webpack_require__.e("vendors~group-foo"), __webpack_require__.e("group-foo")]).then(__webpack_require__.bind(null, /*! ./components/UploadDataFiles.vue */ "./resources/js/components/UploadDataFiles.vue"));
 };
@@ -34826,6 +34830,9 @@ var router = new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({
   routes: [{
     path: '/dashboard',
     component: HomePage
+  }, {
+    path: '/dashboard1',
+    component: HomePage1
   }, {
     path: '/upload',
     component: UploadDataFiles

@@ -5,6 +5,8 @@ import VueRouter from 'vue-router'
 
 const HomePage = () =>
   import(/* webpackChunkName: "group-foo" */ './components/Dashboard.vue')
+const HomePage1 = () =>
+  import(/* webpackChunkName: "group-foo" */ './components/Dashboard1.vue')
 const UploadDataFiles = () =>
   import(/* webpackChunkName: "group-foo" */ './components/UploadDataFiles.vue')
 const ItemViewMasterfiles = () =>
@@ -63,6 +65,10 @@ const router = new VueRouter({
     {
       path: '/dashboard',
       component: HomePage
+    },
+    {
+      path: '/dashboard1',
+      component: HomePage1
     },
     {
       path: '/upload',
