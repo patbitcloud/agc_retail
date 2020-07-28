@@ -18,7 +18,7 @@
           <div class="col-md-12">
             <div class="panel">
               <div class="panel-heading">
-                <h3 class="text-main text-normal text-2x mar-no">Top Customers (Supervisor)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Top Customers</h3>
               </div>
               <div class="panel-body">
                 <div class="row">
@@ -48,210 +48,15 @@
                           <ul class="dropdown-menu dropdown-menu-right" style>
                             <li>
                               <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
+                                <i class="icon-lg icon-fw fa fa-truck"></i> Salesman:
+                                <span>Joseph Santos</span>
                               </a>
                             </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
+
                             <li class="divider"></li>
                             <li>
                               <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
                                 <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="pad-all">
-                        <div class="media pad-ver">
-                          <div class="media-left">
-                            <a href="#" class="box-inline">
-                              <img
-                                alt="Profile Picture"
-                                class="img-md img-circle"
-                                src="assets/img/profile-photos/8.png"
-                              />
-                            </a>
-                          </div>
-                          <div class="media-body pad-top">
-                            <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Lucy Moon</span>
-                              <p class="text-sm">Customer</p>
-                            </a>
-                          </div>
-                        </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!---------------------------------->
-                  </div>
-                  <div class="col-sm-4 col-md-3">
-                    <!-- Contact Widget -->
-                    <!---------------------------------->
-                    <div class="panel pos-rel">
-                      <div class="widget-control text-right">
-                        <a
-                          href="#"
-                          class="add-tooltip btn btn-trans"
-                          data-original-title="Favorite"
-                        >
-                          <span class="unfavorite-color">
-                            <i class="demo-psi-star icon-lg"></i>
-                          </span>
-                        </a>
-                        <div class="btn-group dropdown">
-                          <a
-                            href="#"
-                            class="dropdown-toggle btn btn-trans"
-                            data-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            <i class="demo-psi-dot-vertical icon-lg"></i>
-                          </a>
-                          <ul class="dropdown-menu dropdown-menu-right" style>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="pad-all">
-                        <div class="media pad-ver">
-                          <div class="media-left">
-                            <a href="#" class="box-inline">
-                              <img
-                                alt="Profile Picture"
-                                class="img-md img-circle"
-                                src="assets/img/profile-photos/10.png"
-                              />
-                            </a>
-                          </div>
-                          <div class="media-body pad-top">
-                            <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Brenda Fuller</span>
-                              <p class="text-sm">Customer</p>
-                            </a>
-                          </div>
-                        </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!---------------------------------->
-                  </div>
-                  <div class="col-sm-4 col-md-3">
-                    <!-- Contact Widget -->
-                    <!---------------------------------->
-                    <div class="panel pos-rel">
-                      <div class="widget-control text-right">
-                        <a
-                          href="#"
-                          class="add-tooltip btn btn-trans"
-                          data-original-title="Favorite"
-                        >
-                          <span class="unfavorite-color">
-                            <i class="demo-psi-star icon-lg"></i>
-                          </span>
-                        </a>
-                        <div class="btn-group dropdown">
-                          <a
-                            href="#"
-                            class="dropdown-toggle btn btn-trans"
-                            data-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            <i class="demo-psi-dot-vertical icon-lg"></i>
-                          </a>
-                          <ul class="dropdown-menu dropdown-menu-right" style>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
                               </a>
                             </li>
                           </ul>
@@ -270,27 +75,15 @@
                           </div>
                           <div class="media-body pad-top">
                             <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Aaron Chavez</span>
+                              <span class="text-lg text-semibold text-main">Kirby D. Torreon</span>
                               <p class="text-sm">Customer</p>
                             </a>
                           </div>
                         </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
+                        <p class="pad-btm bord-bt text-sm">
+                          KIRBY D. TORREON (KIBO STORE)
+                          <br />District I, Corella, Bohol
+                        </p>
                       </div>
                     </div>
                     <!---------------------------------->
@@ -305,7 +98,7 @@
                           class="add-tooltip btn btn-trans"
                           data-original-title="Favorite"
                         >
-                          <span class="unfavorite-color">
+                          <span class="favorite-color">
                             <i class="demo-psi-star icon-lg"></i>
                           </span>
                         </a>
@@ -321,28 +114,15 @@
                           <ul class="dropdown-menu dropdown-menu-right" style>
                             <li>
                               <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
+                                <i class="icon-lg icon-fw fa fa-truck"></i> Salesman:
+                                <span>Joseph Santos</span>
                               </a>
                             </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
+
                             <li class="divider"></li>
                             <li>
                               <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
                                 <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
                               </a>
                             </li>
                           </ul>
@@ -361,14 +141,147 @@
                           </div>
                           <div class="media-body pad-top">
                             <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Donald Brown</span>
+                              <span class="text-lg text-semibold text-main">Nemesio L. Estillore</span>
                               <p class="text-sm">Customer</p>
                             </a>
                           </div>
                         </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
+                        <p class="pad-btm bord-bt text-sm">
+                          NEMESIO L. ESTILLORE
+                          <br />District III, Alicia, Bohol
+                        </p>
+                      </div>
+                    </div>
+                    <!---------------------------------->
+                  </div>
+                  <div class="col-sm-4 col-md-3">
+                    <!-- Contact Widget -->
+                    <!---------------------------------->
+                    <div class="panel pos-rel">
+                      <div class="widget-control text-right">
+                        <a
+                          href="#"
+                          class="add-tooltip btn btn-trans"
+                          data-original-title="Favorite"
+                        >
+                          <span class="favorite-color">
+                            <i class="demo-psi-star icon-lg"></i>
+                          </span>
+                        </a>
+                        <div class="btn-group dropdown">
+                          <a
+                            href="#"
+                            class="dropdown-toggle btn btn-trans"
+                            data-toggle="dropdown"
+                            aria-expanded="false"
+                          >
+                            <i class="demo-psi-dot-vertical icon-lg"></i>
+                          </a>
+                          <ul class="dropdown-menu dropdown-menu-right" style>
+                            <li>
+                              <a href="#">
+                                <i class="icon-lg icon-fw fa fa-truck"></i> Salesman:
+                                <span>Joseph Santos</span>
+                              </a>
+                            </li>
+
+                            <li class="divider"></li>
+                            <li>
+                              <a href="#">
+                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="pad-all">
+                        <div class="media pad-ver">
+                          <div class="media-left">
+                            <a href="#" class="box-inline">
+                              <img
+                                alt="Profile Picture"
+                                class="img-md img-circle"
+                                src="assets/img/profile-photos/1.png"
+                              />
+                            </a>
+                          </div>
+                          <div class="media-body pad-top">
+                            <a href="#" class="box-inline">
+                              <span class="text-lg text-semibold text-main">NEMESIO G. AMPATIN</span>
+                              <p class="text-sm">Customer</p>
+                            </a>
+                          </div>
+                        </div>
+                        <p class="pad-btm bord-bt text-sm">
+                          NEMESIO G. AMPATIN (LA HACIENDA RX)
+                          <br />District III, Alicia, Bohol
+                        </p>
+                      </div>
+                    </div>
+                    <!---------------------------------->
+                  </div>
+                  <div class="col-sm-4 col-md-3">
+                    <!-- Contact Widget -->
+                    <!---------------------------------->
+                    <div class="panel pos-rel">
+                      <div class="widget-control text-right">
+                        <a
+                          href="#"
+                          class="add-tooltip btn btn-trans"
+                          data-original-title="Favorite"
+                        >
+                          <span class="favorite-color">
+                            <i class="demo-psi-star icon-lg"></i>
+                          </span>
+                        </a>
+                        <div class="btn-group dropdown">
+                          <a
+                            href="#"
+                            class="dropdown-toggle btn btn-trans"
+                            data-toggle="dropdown"
+                            aria-expanded="false"
+                          >
+                            <i class="demo-psi-dot-vertical icon-lg"></i>
+                          </a>
+                          <ul class="dropdown-menu dropdown-menu-right" style>
+                            <li>
+                              <a href="#">
+                                <i class="icon-lg icon-fw fa fa-truck"></i> Salesman:
+                                <span>Joseph Santos</span>
+                              </a>
+                            </li>
+
+                            <li class="divider"></li>
+                            <li>
+                              <a href="#">
+                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="pad-all">
+                        <div class="media pad-ver">
+                          <div class="media-left">
+                            <a href="#" class="box-inline">
+                              <img
+                                alt="Profile Picture"
+                                class="img-md img-circle"
+                                src="assets/img/profile-photos/10.png"
+                              />
+                            </a>
+                          </div>
+                          <div class="media-body pad-top">
+                            <a href="#" class="box-inline">
+                              <span class="text-lg text-semibold text-main">ANTONIA A. AGUILO</span>
+                              <p class="text-sm">Customer</p>
+                            </a>
+                          </div>
+                        </div>
+                        <p class="pad-btm bord-bt text-sm">
+                          ANTONIA A. AGUILO (TONYA STORE)
+                          <br />District 1, Albur, Bohol
+                        </p>
                         <div class="text-center pad-to">
                           <div class="btn-group">
                             <a href="#" class="btn btn-sm btn-default">
@@ -402,7 +315,7 @@
           <div class="col-md-12">
             <div class="panel">
               <div class="panel-heading">
-                <h3 class="text-main text-normal text-2x mar-no">Top Salesmans (Supervisor)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Top Salesmans</h3>
               </div>
               <div class="panel-body">
                 <div class="row">
@@ -432,210 +345,7 @@
                           <ul class="dropdown-menu dropdown-menu-right" style>
                             <li>
                               <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
                                 <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="pad-all">
-                        <div class="media pad-ver">
-                          <div class="media-left">
-                            <a href="#" class="box-inline">
-                              <img
-                                alt="Profile Picture"
-                                class="img-md img-circle"
-                                src="assets/img/profile-photos/8.png"
-                              />
-                            </a>
-                          </div>
-                          <div class="media-body pad-top">
-                            <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Lucy Moon</span>
-                              <p class="text-sm">Salesman</p>
-                            </a>
-                          </div>
-                        </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!---------------------------------->
-                  </div>
-                  <div class="col-sm-4 col-md-3">
-                    <!-- Contact Widget -->
-                    <!---------------------------------->
-                    <div class="panel pos-rel">
-                      <div class="widget-control text-right">
-                        <a
-                          href="#"
-                          class="add-tooltip btn btn-trans"
-                          data-original-title="Favorite"
-                        >
-                          <span class="unfavorite-color">
-                            <i class="demo-psi-star icon-lg"></i>
-                          </span>
-                        </a>
-                        <div class="btn-group dropdown">
-                          <a
-                            href="#"
-                            class="dropdown-toggle btn btn-trans"
-                            data-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            <i class="demo-psi-dot-vertical icon-lg"></i>
-                          </a>
-                          <ul class="dropdown-menu dropdown-menu-right" style>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="pad-all">
-                        <div class="media pad-ver">
-                          <div class="media-left">
-                            <a href="#" class="box-inline">
-                              <img
-                                alt="Profile Picture"
-                                class="img-md img-circle"
-                                src="assets/img/profile-photos/10.png"
-                              />
-                            </a>
-                          </div>
-                          <div class="media-body pad-top">
-                            <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Brenda Fuller</span>
-                              <p class="text-sm">Salesman</p>
-                            </a>
-                          </div>
-                        </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <!---------------------------------->
-                  </div>
-                  <div class="col-sm-4 col-md-3">
-                    <!-- Contact Widget -->
-                    <!---------------------------------->
-                    <div class="panel pos-rel">
-                      <div class="widget-control text-right">
-                        <a
-                          href="#"
-                          class="add-tooltip btn btn-trans"
-                          data-original-title="Favorite"
-                        >
-                          <span class="unfavorite-color">
-                            <i class="demo-psi-star icon-lg"></i>
-                          </span>
-                        </a>
-                        <div class="btn-group dropdown">
-                          <a
-                            href="#"
-                            class="dropdown-toggle btn btn-trans"
-                            data-toggle="dropdown"
-                            aria-expanded="false"
-                          >
-                            <i class="demo-psi-dot-vertical icon-lg"></i>
-                          </a>
-                          <ul class="dropdown-menu dropdown-menu-right" style>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-psi-pen-5"></i> Edit
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-recycling"></i> Remove
-                              </a>
-                            </li>
-                            <li class="divider"></li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-mail"></i> Send a Message
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-calendar-4"></i> View Details
-                              </a>
-                            </li>
-                            <li>
-                              <a href="#">
-                                <i class="icon-lg icon-fw demo-pli-lock-user"></i> Lock
                               </a>
                             </li>
                           </ul>
@@ -654,27 +364,12 @@
                           </div>
                           <div class="media-body pad-top">
                             <a href="#" class="box-inline">
-                              <span class="text-lg text-semibold text-main">Aaron Chavez</span>
+                              <span class="text-lg text-semibold text-main">Joseph Santos</span>
                               <p class="text-sm">Salesman</p>
                             </a>
                           </div>
                         </div>
-                        <p
-                          class="pad-btm bord-bt text-sm"
-                        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa.</p>
-                        <div class="text-center pad-to">
-                          <div class="btn-group">
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-consulting icon-lg icon-fw"></i> Call
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-mail icon-lg icon-fw"></i> Email
-                            </a>
-                            <a href="#" class="btn btn-sm btn-default">
-                              <i class="demo-pli-pen-5 icon-lg icon-fw"></i> Edit
-                            </a>
-                          </div>
-                        </div>
+                        <p class="pad-btm bord-bt text-sm">District 2, Biking Dauis, Bohol</p>
                       </div>
                     </div>
                     <!---------------------------------->
@@ -694,7 +389,7 @@
           <div class="col-md-12">
             <div class="panel">
               <div class="panel-heading">
-                <h3 class="text-main text-normal text-2x mar-no">Top Items (Supervisor)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Top Items</h3>
               </div>
               <div class="panel-body">
                 <div class="row">
@@ -891,9 +586,7 @@
           <div class="panel-body">
             <div class="pad-btm form-inline">
               <div class="panel-heading">
-                <h3
-                  class="text-main text-normal text-2x mar-no"
-                >Order &amp; Tracking Delivery (Supervisor)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Order &amp; Tracking Delivery</h3>
               </div>
               <div class="row">
                 <div class="col-sm-12 table-toolbar-right">
@@ -1083,7 +776,7 @@
           <div class="panel-body">
             <div class="row mar-top">
               <div class="col-md-3">
-                <h3 class="text-main text-normal text-2x mar-no">Salesman (Supervisor)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Salesman</h3>
                 <h5 class="text-uppercase text-muted text-normal">Report for last 7-days ago</h5>
                 <hr class="new-section-xs" />
                 <div class="row mar-top">

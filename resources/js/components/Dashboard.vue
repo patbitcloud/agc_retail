@@ -10,7 +10,7 @@
       <div class="panel-body">
         <div class="row mar-top">
           <div class="col-md-3">
-            <h3 class="text-main text-normal text-2x mar-no">Activated Users (Admin)</h3>
+            <h3 class="text-main text-normal text-2x mar-no">Activated Users</h3>
             <h5 class="text-uppercase text-muted text-normal">Report for last 7-days ago</h5>
             <hr class="new-section-xs" />
             <div class="row mar-top">
@@ -316,9 +316,7 @@
           <div class="panel-body">
             <div class="pad-btm form-inline">
               <div class="panel-heading">
-                <h3
-                  class="text-main text-normal text-2x mar-no"
-                >Order &amp; Tracking Delivery (Admin)</h3>
+                <h3 class="text-main text-normal text-2x mar-no">Order &amp; Tracking Delivery</h3>
               </div>
               <div class="row">
                 <div class="col-sm-12 table-toolbar-right">

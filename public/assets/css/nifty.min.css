@@ -7,7 +7,7 @@
   width: 100%;
   position: absolute;
   /* background-color: #25476a; */
-  background-color: #ffa600;
+  background-color: #fc6600;
   z-index: 0;
 }
 #page-head,
@@ -295,7 +295,7 @@ h6,
   left: 300px;
 }
 .cls-container {
-  background-color: #ffa600;
+  background-color: #fc6600;
   background: url('../img/admin-login-bg4.jpg') no-repeat center center fixed;
   background-size: cover;
   /* background-size: 100% 100vh; */
@@ -546,7 +546,7 @@ h6,
 .pace .pace-progress,
 .nano > .nano-pane > .nano-slider {
   /* background-color: #112131; */
-  background-color: #ffa600;
+  background-color: #fc6600;
 }
 .pace .pace-progress-inner {
   box-shadow: 0 0 10px #25476a, 0 0 5px #25476a;
@@ -846,7 +846,7 @@ h6,
   }
   #navbar-container {
     /* background-color: #25476a; */
-    background-color: #ffa600;
+    background-color: #fc6600;
   }
   .navbar-content {
     position: relative;

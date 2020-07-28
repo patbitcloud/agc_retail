@@ -107,7 +107,7 @@
                     <div class="navbar-header">
                         <a href="index.html" class="navbar-brand">
                             <img src="{{ asset('assets/img/logo.png') }}" alt="') }}Nifty Logo" class="brand-icon">
-                            <div class="brand-title" style="background-color: #ffa600;">
+                            <div class="brand-title" style="background-color: #fc6600;">
                                 <span class="brand-text">LDI Apps</span>
                             </div>
                         </a>
@@ -261,27 +261,27 @@
                                             <div class="row img-gallery">
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-1.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-1.jpg') }}" alt=" thumbs">
                                                 </div>
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-3.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-3.jpg') }}" alt=" thumbs">
                                                 </div>
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-2.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-2.jpg') }}" alt=" thumbs">
                                                 </div>
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-4.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-4.jpg') }}" alt=" thumbs">
                                                 </div>
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-6.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-6.jpg') }}" alt=" thumbs">
                                                 </div>
                                                 <div class="col-xs-4">
                                                     <img class="img-responsive"
-                                                        src="{{ asset('assets/img/thumbs/img-5.jpg" al') }}t=" thumbs">
+                                                        src="{{ asset('assets/img/thumbs/img-5.jpg') }}" alt=" thumbs">
                                                 </div>
                                             </div>
                                             <a href="#" class="btn btn-block btn-primary">Browse Gallery</a>

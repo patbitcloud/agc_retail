@@ -1583,8 +1583,6 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
 //
 //
 //
-//
-//
 
 /** @format */
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -1644,313 +1642,6 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -4960,501 +4651,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+
+/** @format */
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -5475,7 +4673,14 @@ __webpack_require__.r(__webpack_exports__);
     }
   },
   mounted: function mounted() {
-    $('#salesmanTbl').DataTable();
+    $(document).on('shown.bs.tab', 'a[data-toggle="tab"]', function (e) {
+      $.fn.dataTable.tables({
+        visible: true,
+        api: true
+      }).columns.adjust();
+    });
+    $('#updated_list').DataTable();
+    $('#unupdated_list').DataTable();
   }
 });
 
@@ -7049,6 +6254,82 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+/** @format */
 /* harmony default export */ __webpack_exports__["default"] = ({
   data: function data() {
     return {
@@ -7097,6 +6378,7 @@ __webpack_require__.r(__webpack_exports__);
   },
   mounted: function mounted() {
     $('#data_files').DataTable();
+    $('#data_logs').DataTable();
     $('#submitform').on('click', function (e) {
       e.preventDefault();
     });
@@ -9511,7 +8793,7 @@ var staticRenderFns = [
               _c(
                 "h3",
                 { staticClass: "text-main text-normal text-2x mar-no" },
-                [_vm._v("Activated Users (Admin)")]
+                [_vm._v("Activated Users")]
               ),
               _vm._v(" "),
               _c(
@@ -10135,7 +9417,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Order & Tracking Delivery (Admin)")]
+                    [_vm._v("Order & Tracking Delivery")]
                   )
                 ]),
                 _vm._v(" "),
@@ -10515,7 +9797,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Top Customers (Supervisor)")]
+                    [_vm._v("Top Customers")]
                   )
                 ]),
                 _vm._v(" "),
@@ -10574,23 +9856,12 @@ var staticRenderFns = [
                                     _c("a", { attrs: { href: "#" } }, [
                                       _c("i", {
                                         staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
+                                          "icon-lg icon-fw fa fa-truck"
                                       }),
                                       _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
+                                        " Salesman:\n                              "
+                                      ),
+                                      _c("span", [_vm._v("Joseph Santos")])
                                     ])
                                   ]),
                                   _vm._v(" "),
@@ -10600,480 +9871,10 @@ var staticRenderFns = [
                                     _c("a", { attrs: { href: "#" } }, [
                                       _c("i", {
                                         staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
                                           "icon-lg icon-fw demo-pli-calendar-4"
                                       }),
                                       _vm._v(
                                         " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
-                                      )
-                                    ])
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "pad-all" }, [
-                          _c("div", { staticClass: "media pad-ver" }, [
-                            _c("div", { staticClass: "media-left" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("img", {
-                                    staticClass: "img-md img-circle",
-                                    attrs: {
-                                      alt: "Profile Picture",
-                                      src: "assets/img/profile-photos/8.png"
-                                    }
-                                  })
-                                ]
-                              )
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "media-body pad-top" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c(
-                                    "span",
-                                    {
-                                      staticClass:
-                                        "text-lg text-semibold text-main"
-                                    },
-                                    [_vm._v("Lucy Moon")]
-                                  ),
-                                  _vm._v(" "),
-                                  _c("p", { staticClass: "text-sm" }, [
-                                    _vm._v("Customer")
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
-                            _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
-                            )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
-                          ])
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
-                      _c("div", { staticClass: "panel pos-rel" }, [
-                        _c(
-                          "div",
-                          { staticClass: "widget-control text-right" },
-                          [
-                            _c(
-                              "a",
-                              {
-                                staticClass: "add-tooltip btn btn-trans",
-                                attrs: {
-                                  href: "#",
-                                  "data-original-title": "Favorite"
-                                }
-                              },
-                              [
-                                _c(
-                                  "span",
-                                  { staticClass: "unfavorite-color" },
-                                  [
-                                    _c("i", {
-                                      staticClass: "demo-psi-star icon-lg"
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "btn-group dropdown" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "dropdown-toggle btn btn-trans",
-                                  attrs: {
-                                    href: "#",
-                                    "data-toggle": "dropdown",
-                                    "aria-expanded": "false"
-                                  }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-psi-dot-vertical icon-lg"
-                                  })
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "ul",
-                                {
-                                  staticClass:
-                                    "dropdown-menu dropdown-menu-right"
-                                },
-                                [
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
-                                      }),
-                                      _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", { staticClass: "divider" }),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-calendar-4"
-                                      }),
-                                      _vm._v(
-                                        " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
-                                      )
-                                    ])
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "pad-all" }, [
-                          _c("div", { staticClass: "media pad-ver" }, [
-                            _c("div", { staticClass: "media-left" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("img", {
-                                    staticClass: "img-md img-circle",
-                                    attrs: {
-                                      alt: "Profile Picture",
-                                      src: "assets/img/profile-photos/10.png"
-                                    }
-                                  })
-                                ]
-                              )
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "media-body pad-top" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c(
-                                    "span",
-                                    {
-                                      staticClass:
-                                        "text-lg text-semibold text-main"
-                                    },
-                                    [_vm._v("Brenda Fuller")]
-                                  ),
-                                  _vm._v(" "),
-                                  _c("p", { staticClass: "text-sm" }, [
-                                    _vm._v("Customer")
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
-                            _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
-                            )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
-                          ])
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
-                      _c("div", { staticClass: "panel pos-rel" }, [
-                        _c(
-                          "div",
-                          { staticClass: "widget-control text-right" },
-                          [
-                            _c(
-                              "a",
-                              {
-                                staticClass: "add-tooltip btn btn-trans",
-                                attrs: {
-                                  href: "#",
-                                  "data-original-title": "Favorite"
-                                }
-                              },
-                              [
-                                _c(
-                                  "span",
-                                  { staticClass: "unfavorite-color" },
-                                  [
-                                    _c("i", {
-                                      staticClass: "demo-psi-star icon-lg"
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "btn-group dropdown" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "dropdown-toggle btn btn-trans",
-                                  attrs: {
-                                    href: "#",
-                                    "data-toggle": "dropdown",
-                                    "aria-expanded": "false"
-                                  }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-psi-dot-vertical icon-lg"
-                                  })
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "ul",
-                                {
-                                  staticClass:
-                                    "dropdown-menu dropdown-menu-right"
-                                },
-                                [
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
-                                      }),
-                                      _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", { staticClass: "divider" }),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-calendar-4"
-                                      }),
-                                      _vm._v(
-                                        " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
                                       )
                                     ])
                                   ])
@@ -11118,7 +9919,7 @@ var staticRenderFns = [
                                       staticClass:
                                         "text-lg text-semibold text-main"
                                     },
-                                    [_vm._v("Aaron Chavez")]
+                                    [_vm._v("Kirby D. Torreon")]
                                   ),
                                   _vm._v(" "),
                                   _c("p", { staticClass: "text-sm" }, [
@@ -11131,56 +9932,12 @@ var staticRenderFns = [
                           _vm._v(" "),
                           _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
                             _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
+                              "\n                        KIRBY D. TORREON (KIBO STORE)\n                        "
+                            ),
+                            _c("br"),
+                            _vm._v(
+                              "District I, Corella, Bohol\n                      "
                             )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
                           ])
                         ])
                       ])
@@ -11202,15 +9959,11 @@ var staticRenderFns = [
                                 }
                               },
                               [
-                                _c(
-                                  "span",
-                                  { staticClass: "unfavorite-color" },
-                                  [
-                                    _c("i", {
-                                      staticClass: "demo-psi-star icon-lg"
-                                    })
-                                  ]
-                                )
+                                _c("span", { staticClass: "favorite-color" }, [
+                                  _c("i", {
+                                    staticClass: "demo-psi-star icon-lg"
+                                  })
+                                ])
                               ]
                             ),
                             _vm._v(" "),
@@ -11243,23 +9996,12 @@ var staticRenderFns = [
                                     _c("a", { attrs: { href: "#" } }, [
                                       _c("i", {
                                         staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
+                                          "icon-lg icon-fw fa fa-truck"
                                       }),
                                       _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
+                                        " Salesman:\n                              "
+                                      ),
+                                      _c("span", [_vm._v("Joseph Santos")])
                                     ])
                                   ]),
                                   _vm._v(" "),
@@ -11269,34 +10011,10 @@ var staticRenderFns = [
                                     _c("a", { attrs: { href: "#" } }, [
                                       _c("i", {
                                         staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
                                           "icon-lg icon-fw demo-pli-calendar-4"
                                       }),
                                       _vm._v(
                                         " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
                                       )
                                     ])
                                   ])
@@ -11341,7 +10059,7 @@ var staticRenderFns = [
                                       staticClass:
                                         "text-lg text-semibold text-main"
                                     },
-                                    [_vm._v("Donald Brown")]
+                                    [_vm._v("Nemesio L. Estillore")]
                                   ),
                                   _vm._v(" "),
                                   _c("p", { staticClass: "text-sm" }, [
@@ -11354,7 +10072,291 @@ var staticRenderFns = [
                           _vm._v(" "),
                           _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
                             _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
+                              "\n                        NEMESIO L. ESTILLORE\n                        "
+                            ),
+                            _c("br"),
+                            _vm._v(
+                              "District III, Alicia, Bohol\n                      "
+                            )
+                          ])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
+                      _c("div", { staticClass: "panel pos-rel" }, [
+                        _c(
+                          "div",
+                          { staticClass: "widget-control text-right" },
+                          [
+                            _c(
+                              "a",
+                              {
+                                staticClass: "add-tooltip btn btn-trans",
+                                attrs: {
+                                  href: "#",
+                                  "data-original-title": "Favorite"
+                                }
+                              },
+                              [
+                                _c("span", { staticClass: "favorite-color" }, [
+                                  _c("i", {
+                                    staticClass: "demo-psi-star icon-lg"
+                                  })
+                                ])
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "btn-group dropdown" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "dropdown-toggle btn btn-trans",
+                                  attrs: {
+                                    href: "#",
+                                    "data-toggle": "dropdown",
+                                    "aria-expanded": "false"
+                                  }
+                                },
+                                [
+                                  _c("i", {
+                                    staticClass: "demo-psi-dot-vertical icon-lg"
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "ul",
+                                {
+                                  staticClass:
+                                    "dropdown-menu dropdown-menu-right"
+                                },
+                                [
+                                  _c("li", [
+                                    _c("a", { attrs: { href: "#" } }, [
+                                      _c("i", {
+                                        staticClass:
+                                          "icon-lg icon-fw fa fa-truck"
+                                      }),
+                                      _vm._v(
+                                        " Salesman:\n                              "
+                                      ),
+                                      _c("span", [_vm._v("Joseph Santos")])
+                                    ])
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("li", { staticClass: "divider" }),
+                                  _vm._v(" "),
+                                  _c("li", [
+                                    _c("a", { attrs: { href: "#" } }, [
+                                      _c("i", {
+                                        staticClass:
+                                          "icon-lg icon-fw demo-pli-calendar-4"
+                                      }),
+                                      _vm._v(
+                                        " View Details\n                            "
+                                      )
+                                    ])
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "pad-all" }, [
+                          _c("div", { staticClass: "media pad-ver" }, [
+                            _c("div", { staticClass: "media-left" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "box-inline",
+                                  attrs: { href: "#" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "img-md img-circle",
+                                    attrs: {
+                                      alt: "Profile Picture",
+                                      src: "assets/img/profile-photos/1.png"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "media-body pad-top" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "box-inline",
+                                  attrs: { href: "#" }
+                                },
+                                [
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "text-lg text-semibold text-main"
+                                    },
+                                    [_vm._v("NEMESIO G. AMPATIN")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("p", { staticClass: "text-sm" }, [
+                                    _vm._v("Customer")
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
+                            _vm._v(
+                              "\n                        NEMESIO G. AMPATIN (LA HACIENDA RX)\n                        "
+                            ),
+                            _c("br"),
+                            _vm._v(
+                              "District III, Alicia, Bohol\n                      "
+                            )
+                          ])
+                        ])
+                      ])
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
+                      _c("div", { staticClass: "panel pos-rel" }, [
+                        _c(
+                          "div",
+                          { staticClass: "widget-control text-right" },
+                          [
+                            _c(
+                              "a",
+                              {
+                                staticClass: "add-tooltip btn btn-trans",
+                                attrs: {
+                                  href: "#",
+                                  "data-original-title": "Favorite"
+                                }
+                              },
+                              [
+                                _c("span", { staticClass: "favorite-color" }, [
+                                  _c("i", {
+                                    staticClass: "demo-psi-star icon-lg"
+                                  })
+                                ])
+                              ]
+                            ),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "btn-group dropdown" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "dropdown-toggle btn btn-trans",
+                                  attrs: {
+                                    href: "#",
+                                    "data-toggle": "dropdown",
+                                    "aria-expanded": "false"
+                                  }
+                                },
+                                [
+                                  _c("i", {
+                                    staticClass: "demo-psi-dot-vertical icon-lg"
+                                  })
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c(
+                                "ul",
+                                {
+                                  staticClass:
+                                    "dropdown-menu dropdown-menu-right"
+                                },
+                                [
+                                  _c("li", [
+                                    _c("a", { attrs: { href: "#" } }, [
+                                      _c("i", {
+                                        staticClass:
+                                          "icon-lg icon-fw fa fa-truck"
+                                      }),
+                                      _vm._v(
+                                        " Salesman:\n                              "
+                                      ),
+                                      _c("span", [_vm._v("Joseph Santos")])
+                                    ])
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("li", { staticClass: "divider" }),
+                                  _vm._v(" "),
+                                  _c("li", [
+                                    _c("a", { attrs: { href: "#" } }, [
+                                      _c("i", {
+                                        staticClass:
+                                          "icon-lg icon-fw demo-pli-calendar-4"
+                                      }),
+                                      _vm._v(
+                                        " View Details\n                            "
+                                      )
+                                    ])
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "pad-all" }, [
+                          _c("div", { staticClass: "media pad-ver" }, [
+                            _c("div", { staticClass: "media-left" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "box-inline",
+                                  attrs: { href: "#" }
+                                },
+                                [
+                                  _c("img", {
+                                    staticClass: "img-md img-circle",
+                                    attrs: {
+                                      alt: "Profile Picture",
+                                      src: "assets/img/profile-photos/10.png"
+                                    }
+                                  })
+                                ]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "media-body pad-top" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "box-inline",
+                                  attrs: { href: "#" }
+                                },
+                                [
+                                  _c(
+                                    "span",
+                                    {
+                                      staticClass:
+                                        "text-lg text-semibold text-main"
+                                    },
+                                    [_vm._v("ANTONIA A. AGUILO")]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("p", { staticClass: "text-sm" }, [
+                                    _vm._v("Customer")
+                                  ])
+                                ]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
+                            _vm._v(
+                              "\n                        ANTONIA A. AGUILO (TONYA STORE)\n                        "
+                            ),
+                            _c("br"),
+                            _vm._v(
+                              "District 1, Albur, Bohol\n                      "
                             )
                           ]),
                           _vm._v(" "),
@@ -11436,7 +10438,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Top Salesmans (Supervisor)")]
+                    [_vm._v("Top Salesmans")]
                   )
                 ]),
                 _vm._v(" "),
@@ -11495,506 +10497,10 @@ var staticRenderFns = [
                                     _c("a", { attrs: { href: "#" } }, [
                                       _c("i", {
                                         staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
-                                      }),
-                                      _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", { staticClass: "divider" }),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
                                           "icon-lg icon-fw demo-pli-calendar-4"
                                       }),
                                       _vm._v(
                                         " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
-                                      )
-                                    ])
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "pad-all" }, [
-                          _c("div", { staticClass: "media pad-ver" }, [
-                            _c("div", { staticClass: "media-left" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("img", {
-                                    staticClass: "img-md img-circle",
-                                    attrs: {
-                                      alt: "Profile Picture",
-                                      src: "assets/img/profile-photos/8.png"
-                                    }
-                                  })
-                                ]
-                              )
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "media-body pad-top" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c(
-                                    "span",
-                                    {
-                                      staticClass:
-                                        "text-lg text-semibold text-main"
-                                    },
-                                    [_vm._v("Lucy Moon")]
-                                  ),
-                                  _vm._v(" "),
-                                  _c("p", { staticClass: "text-sm" }, [
-                                    _vm._v("Salesman")
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
-                            _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
-                            )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
-                          ])
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
-                      _c("div", { staticClass: "panel pos-rel" }, [
-                        _c(
-                          "div",
-                          { staticClass: "widget-control text-right" },
-                          [
-                            _c(
-                              "a",
-                              {
-                                staticClass: "add-tooltip btn btn-trans",
-                                attrs: {
-                                  href: "#",
-                                  "data-original-title": "Favorite"
-                                }
-                              },
-                              [
-                                _c(
-                                  "span",
-                                  { staticClass: "unfavorite-color" },
-                                  [
-                                    _c("i", {
-                                      staticClass: "demo-psi-star icon-lg"
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "btn-group dropdown" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "dropdown-toggle btn btn-trans",
-                                  attrs: {
-                                    href: "#",
-                                    "data-toggle": "dropdown",
-                                    "aria-expanded": "false"
-                                  }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-psi-dot-vertical icon-lg"
-                                  })
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "ul",
-                                {
-                                  staticClass:
-                                    "dropdown-menu dropdown-menu-right"
-                                },
-                                [
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
-                                      }),
-                                      _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", { staticClass: "divider" }),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-calendar-4"
-                                      }),
-                                      _vm._v(
-                                        " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
-                                      )
-                                    ])
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]
-                        ),
-                        _vm._v(" "),
-                        _c("div", { staticClass: "pad-all" }, [
-                          _c("div", { staticClass: "media pad-ver" }, [
-                            _c("div", { staticClass: "media-left" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("img", {
-                                    staticClass: "img-md img-circle",
-                                    attrs: {
-                                      alt: "Profile Picture",
-                                      src: "assets/img/profile-photos/10.png"
-                                    }
-                                  })
-                                ]
-                              )
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "media-body pad-top" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "box-inline",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c(
-                                    "span",
-                                    {
-                                      staticClass:
-                                        "text-lg text-semibold text-main"
-                                    },
-                                    [_vm._v("Brenda Fuller")]
-                                  ),
-                                  _vm._v(" "),
-                                  _c("p", { staticClass: "text-sm" }, [
-                                    _vm._v("Salesman")
-                                  ])
-                                ]
-                              )
-                            ])
-                          ]),
-                          _vm._v(" "),
-                          _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
-                            _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
-                            )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
-                          ])
-                        ])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "col-sm-4 col-md-3" }, [
-                      _c("div", { staticClass: "panel pos-rel" }, [
-                        _c(
-                          "div",
-                          { staticClass: "widget-control text-right" },
-                          [
-                            _c(
-                              "a",
-                              {
-                                staticClass: "add-tooltip btn btn-trans",
-                                attrs: {
-                                  href: "#",
-                                  "data-original-title": "Favorite"
-                                }
-                              },
-                              [
-                                _c(
-                                  "span",
-                                  { staticClass: "unfavorite-color" },
-                                  [
-                                    _c("i", {
-                                      staticClass: "demo-psi-star icon-lg"
-                                    })
-                                  ]
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "btn-group dropdown" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "dropdown-toggle btn btn-trans",
-                                  attrs: {
-                                    href: "#",
-                                    "data-toggle": "dropdown",
-                                    "aria-expanded": "false"
-                                  }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-psi-dot-vertical icon-lg"
-                                  })
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "ul",
-                                {
-                                  staticClass:
-                                    "dropdown-menu dropdown-menu-right"
-                                },
-                                [
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-psi-pen-5"
-                                      }),
-                                      _vm._v(
-                                        " Edit\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-recycling"
-                                      }),
-                                      _vm._v(
-                                        " Remove\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", { staticClass: "divider" }),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-mail"
-                                      }),
-                                      _vm._v(
-                                        " Send a Message\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-calendar-4"
-                                      }),
-                                      _vm._v(
-                                        " View Details\n                            "
-                                      )
-                                    ])
-                                  ]),
-                                  _vm._v(" "),
-                                  _c("li", [
-                                    _c("a", { attrs: { href: "#" } }, [
-                                      _c("i", {
-                                        staticClass:
-                                          "icon-lg icon-fw demo-pli-lock-user"
-                                      }),
-                                      _vm._v(
-                                        " Lock\n                            "
                                       )
                                     ])
                                   ])
@@ -12039,7 +10545,7 @@ var staticRenderFns = [
                                       staticClass:
                                         "text-lg text-semibold text-main"
                                     },
-                                    [_vm._v("Aaron Chavez")]
+                                    [_vm._v("Joseph Santos")]
                                   ),
                                   _vm._v(" "),
                                   _c("p", { staticClass: "text-sm" }, [
@@ -12051,57 +10557,7 @@ var staticRenderFns = [
                           ]),
                           _vm._v(" "),
                           _c("p", { staticClass: "pad-btm bord-bt text-sm" }, [
-                            _vm._v(
-                              "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean massa."
-                            )
-                          ]),
-                          _vm._v(" "),
-                          _c("div", { staticClass: "text-center pad-to" }, [
-                            _c("div", { staticClass: "btn-group" }, [
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-consulting icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Call\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass: "demo-pli-mail icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Email\n                          ")
-                                ]
-                              ),
-                              _vm._v(" "),
-                              _c(
-                                "a",
-                                {
-                                  staticClass: "btn btn-sm btn-default",
-                                  attrs: { href: "#" }
-                                },
-                                [
-                                  _c("i", {
-                                    staticClass:
-                                      "demo-pli-pen-5 icon-lg icon-fw"
-                                  }),
-                                  _vm._v(" Edit\n                          ")
-                                ]
-                              )
-                            ])
+                            _vm._v("District 2, Biking Dauis, Bohol")
                           ])
                         ])
                       ])
@@ -12125,7 +10581,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Top Items (Supervisor)")]
+                    [_vm._v("Top Items")]
                   )
                 ]),
                 _vm._v(" "),
@@ -12531,7 +10987,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Order & Tracking Delivery (Supervisor)")]
+                    [_vm._v("Order & Tracking Delivery")]
                   )
                 ]),
                 _vm._v(" "),
@@ -12865,7 +11321,7 @@ var staticRenderFns = [
                   _c(
                     "h3",
                     { staticClass: "text-main text-normal text-2x mar-no" },
-                    [_vm._v("Salesman (Supervisor)")]
+                    [_vm._v("Salesman")]
                   ),
                   _vm._v(" "),
                   _c(
@@ -16887,1360 +15343,405 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c("div", { attrs: { id: "page-content" } }, [
-    _c("div", { staticClass: "panel" }, [
-      _c(
-        "div",
-        {
-          directives: [
-            {
-              name: "show",
-              rawName: "v-show",
-              value: !_vm.show_su_div,
-              expression: "!show_su_div"
-            }
-          ],
-          staticClass: "panel-heading",
-          attrs: { id: "showTitle" }
-        },
-        [_vm._m(0)]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          directives: [
-            {
-              name: "show",
-              rawName: "v-show",
-              value: !_vm.show_su_div,
-              expression: "!show_su_div"
-            }
-          ],
-          staticClass: "panel-body",
-          attrs: { id: "tblDtl" }
-        },
-        [_vm._m(1), _vm._v(" "), _vm._m(2)]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          directives: [
-            {
-              name: "show",
-              rawName: "v-show",
-              value: _vm.show_su_div,
-              expression: "show_su_div"
-            }
-          ],
-          staticClass: "panel-body"
-        },
-        [
-          _c(
-            "div",
-            { staticClass: "row", staticStyle: { margin: "0px 0px 10px 0px" } },
-            [
-              _vm._m(3),
-              _vm._v(" "),
-              _c(
-                "div",
-                { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-                [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-primary btn-rounded pull-right btn-sm",
-                      on: {
-                        click: function($event) {
-                          return _vm.addBtn()
-                        }
-                      }
-                    },
-                    [
-                      _c("i", { staticClass: "fa fa-arrow-left" }),
-                      _vm._v(" Back\n          ")
-                    ]
-                  )
-                ]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "panel-body" }, [
-            _vm._m(4),
-            _vm._v(" "),
-            _c("div", { staticClass: "row", staticStyle: { height: "35px" } }),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "row",
-                staticStyle: { margin: "0px 0px 10px 0px" }
-              },
-              [
-                _c("div", {
-                  staticClass: "col-lg-6",
-                  staticStyle: { padding: "15px" }
-                }),
-                _vm._v(" "),
-                _c(
-                  "div",
-                  { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-                  [
-                    _c("router-link", { attrs: { to: "" } }, [
-                      _c("a", { attrs: { href: "javascript:;" } }, [
-                        _c(
-                          "button",
-                          {
-                            staticClass:
-                              "btn btn-success btn-rounded pull-right btn-sm",
-                            attrs: { id: "submitform", type: "submit" }
-                          },
-                          [
-                            _c("i", { staticClass: "fa fa-check" }),
-                            _vm._v(" Submit\n                ")
-                          ]
-                        )
-                      ])
-                    ])
-                  ],
-                  1
-                )
-              ]
-            )
-          ])
-        ]
-      ),
-      _vm._v(" "),
-      _c(
-        "div",
-        {
-          staticClass: "panel-body",
-          staticStyle: { display: "none" },
-          attrs: { id: "editDtls" }
-        },
-        [
-          _c(
-            "div",
-            { staticClass: "row", staticStyle: { margin: "0px 0px 10px 0px" } },
-            [
-              _vm._m(5),
-              _vm._v(" "),
-              _c(
-                "div",
-                { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-                [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-primary btn-rounded pull-right btn-sm",
-                      on: {
-                        click: function($event) {
-                          return _vm.editDtlsBtn()
-                        }
-                      }
-                    },
-                    [
-                      _c("i", { staticClass: "fa fa-arrow-left" }),
-                      _vm._v(" Back\n          ")
-                    ]
-                  )
-                ]
-              )
-            ]
-          ),
-          _vm._v(" "),
-          _c("div", { staticClass: "panel-body" }, [
-            _vm._m(6),
-            _vm._v(" "),
-            _c("div", { staticClass: "row", staticStyle: { height: "35px" } }),
-            _vm._v(" "),
-            _c(
-              "div",
-              {
-                staticClass: "row",
-                staticStyle: { margin: "0px 0px 10px 0px" }
-              },
-              [
-                _c("div", {
-                  staticClass: "col-lg-6",
-                  staticStyle: { padding: "15px" }
-                }),
-                _vm._v(" "),
-                _c(
-                  "div",
-                  { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-                  [
-                    _c("router-link", { attrs: { to: "" } }, [
-                      _c("a", { attrs: { href: "javascript:;" } }, [
-                        _c(
-                          "button",
-                          {
-                            staticClass:
-                              "btn btn-success btn-rounded pull-right btn-sm",
-                            attrs: { id: "submitform", type: "submit" }
-                          },
-                          [
-                            _c("i", { staticClass: "fa fa-check" }),
-                            _vm._v(" Submit\n                ")
-                          ]
-                        )
-                      ])
-                    ])
-                  ],
-                  1
-                )
-              ]
-            )
-          ])
-        ]
-      )
-    ])
-  ])
+  return _vm._m(0)
 }
 var staticRenderFns = [
   function() {
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c(
-      "h3",
-      { staticClass: "panel-title", staticStyle: { "font-weight": "bold" } },
-      [_c("i", { staticClass: "fa fa-truck" }), _vm._v(" Item Lists\n      ")]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "row", staticStyle: { margin: "0px 0px 10px 0px" } },
-      [_c("div", { staticClass: "col-lg-12" })]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "table-responsive" }, [
-      _c(
-        "table",
-        {
-          staticClass:
-            "table table-bordered table-hover dt-responsive nowrap table-vcenter",
-          attrs: { id: "salesmanTbl", width: "100%" }
-        },
-        [
-          _c("thead", [
-            _c("tr", [
-              _c("th", [_vm._v("Prdct Name")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Prdct Shrt Name")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Desc")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Company Code")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Item Code")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Barcode")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Option")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Brand")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Principal")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Product Family")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Keywords")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("UOM")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("List Price w/out Tax")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("List Price w/ Tax")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Conversion Qty")]),
-              _vm._v(" "),
-              _c("th", [_vm._v("Conversion UOM")])
+    return _c("div", { attrs: { id: "page-content" } }, [
+      _c("div", { staticClass: "panel" }, [
+        _c("div", { staticClass: "panel-heading" }, [
+          _c(
+            "h3",
+            {
+              staticClass: "panel-title",
+              staticStyle: { "font-weight": "bold", "font-size": "13px" }
+            },
+            [
+              _c("i", { staticClass: "fa fa-vcard-o" }),
+              _vm._v(" Item Masterfiles\n      ")
+            ]
+          )
+        ]),
+        _vm._v(" "),
+        _c("div", { staticClass: "tab-base" }, [
+          _c("ul", { staticClass: "nav nav-tabs" }, [
+            _c("li", { staticClass: "active" }, [
+              _c(
+                "a",
+                { attrs: { "data-toggle": "tab", href: "#demo-lft-tab-1" } },
+                [
+                  _vm._v("\n            Have Image\n            "),
+                  _c("span", { staticClass: "badge badge-warning" }, [
+                    _vm._v("1")
+                  ])
+                ]
+              )
+            ]),
+            _vm._v(" "),
+            _c("li", [
+              _c(
+                "a",
+                { attrs: { "data-toggle": "tab", href: "#demo-lft-tab-2" } },
+                [
+                  _vm._v("\n            No Image\n            "),
+                  _c("span", { staticClass: "badge badge-success" }, [
+                    _vm._v("1")
+                  ])
+                ]
+              )
             ])
           ]),
           _vm._v(" "),
-          _c("tbody", [
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ]),
-            _vm._v(" "),
-            _c("tr", [
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("S0009")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("100053")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("2.20E+12")]),
-              _vm._v(" "),
-              _c("td", [
-                _c("div", { staticClass: "btn-group dropdown" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass:
-                        "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
-                      attrs: { "data-toggle": "dropdown", type: "button" }
-                    },
-                    [
-                      _vm._v(
-                        "\n                    Active\n                    "
-                      ),
-                      _c("i", { staticClass: "dropdown-caret" })
-                    ]
-                  ),
-                  _vm._v(" "),
-                  _c(
-                    "ul",
-                    { staticClass: "dropdown-menu dropdown-menu-right" },
-                    [
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "blue" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Active")]
-                        )
-                      ]),
-                      _vm._v(" "),
-                      _c("li", [
-                        _c(
-                          "a",
-                          {
-                            staticStyle: { color: "red" },
-                            attrs: { href: "#" }
-                          },
-                          [_vm._v("Inactive")]
-                        )
-                      ])
-                    ]
-                  )
-                ])
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BW BAKING CUP")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BAKING NEEDS")]),
-              _vm._v(" "),
-              _c("td", [
-                _vm._v("\n                BAKING CUPS\n              ")
-              ]),
-              _vm._v(" "),
-              _c("td", [_vm._v("CASE96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("385.714")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("432")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("96")]),
-              _vm._v(" "),
-              _c("td", [_vm._v("BOX")])
-            ])
-          ])
-        ]
-      )
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-      [
-        _c(
-          "h5",
-          { staticClass: "text-main", staticStyle: { "font-weight": "bold" } },
-          [
-            _c("i", { staticClass: "fa fa-address-card-o" }),
-            _vm._v(" Salesman Setup\n          ")
-          ]
-        )
-      ]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row" }, [
-      _c("div", { staticClass: "col-sm-3" }, [
-        _c(
-          "h4",
-          {
-            staticStyle: {
-              "font-weight": "bold",
-              "text-decoration": "underline"
-            }
-          },
-          [_vm._v("\n              Information\n            ")]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Product Name\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", {
-            staticClass: "form-control",
-            attrs: { type: "text", id: "" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Last name:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", { staticClass: "form-control", attrs: { type: "text" } })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Username:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", { staticClass: "form-control", attrs: { type: "text" } })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Password:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", { staticClass: "form-control", attrs: { type: "text" } })
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-sm-9" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-sm-4" }),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-sm-4" }, [
+          _c("div", { staticClass: "tab-content" }, [
             _c(
-              "h4",
+              "div",
               {
-                staticStyle: {
-                  "font-weight": "bold",
-                  "text-decoration": "underline"
-                }
+                staticClass: "tab-pane fade active in",
+                attrs: { id: "demo-lft-tab-1" }
               },
-              [_vm._v("\n                  Location\n                ")]
-            )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-sm-4" })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Email:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
+              [
+                _c("div", { staticClass: "panel-body" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "row",
+                      staticStyle: { margin: "0px 0px 10px 0px" }
+                    },
+                    [_c("div", { staticClass: "col-lg-12" })]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "table-responsive" }, [
+                    _c(
+                      "table",
+                      {
+                        staticClass:
+                          "table table-bordered table-hover dt-responsive nowrap table-vcenter",
+                        attrs: { id: "updated_list", width: "100%" }
+                      },
+                      [
+                        _c("thead", [
+                          _c("tr", [
+                            _c("th", [_vm._v("Prdct Name")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Prdct Shrt Name")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Desc")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Company Code")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Option")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Item Code")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Barcode")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Brand")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Principal")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Product Family")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Keywords")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("UOM")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("List Price w/out Tax")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("List Price w/ Tax")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Conversion Qty")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Conversion UOM")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Image")])
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("tbody", [
+                          _c("tr", [
+                            _c("td", [_vm._v("ENFAGROW A+ KID/FOUR 350G")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("ENFA A+ KID/4 350G")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("ENFAGROW A+ KID/FOUR 350G")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("S0671")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn btn-xs btn-info btn-active-blue"
+                                },
+                                [_vm._v("Change")]
+                              ),
+                              _vm._v("  \n                      "),
+                              _c("div", { staticClass: "btn-group dropdown" }, [
+                                _c(
+                                  "button",
+                                  {
+                                    staticClass:
+                                      "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
+                                    attrs: {
+                                      "data-toggle": "dropdown",
+                                      type: "button"
+                                    }
+                                  },
+                                  [
+                                    _vm._v(
+                                      "\n                          Active\n                          "
+                                    ),
+                                    _c("i", { staticClass: "dropdown-caret" })
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "ul",
+                                  {
+                                    staticClass:
+                                      "dropdown-menu dropdown-menu-right"
+                                  },
+                                  [
+                                    _c("li", [
+                                      _c(
+                                        "a",
+                                        {
+                                          staticStyle: { color: "blue" },
+                                          attrs: { href: "#" }
+                                        },
+                                        [_vm._v("Active")]
+                                      )
+                                    ]),
+                                    _vm._v(" "),
+                                    _c("li", [
+                                      _c(
+                                        "a",
+                                        {
+                                          staticStyle: { color: "red" },
+                                          attrs: { href: "#" }
+                                        },
+                                        [_vm._v("Inactive")]
+                                      )
+                                    ])
+                                  ]
+                                )
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("100801")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("8.71E+12")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("ENFAGROW")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("MEAD JOHNSONS PHILS.")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BABY FORMULA")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("GROWING UP MILK")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("CS12")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("4060.71")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("4548")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("12")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BOX")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c("img", {
+                                staticStyle: { width: "60px", height: "60px" },
+                                attrs: { src: "assets/img/210001_BOX.jpg" }
+                              })
+                            ])
+                          ])
+                        ])
+                      ]
+                    )
+                  ])
+                ])
+              ]
+            ),
             _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Telephone:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Mobile:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  User Code:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text" }
-            })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Address:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Department:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("Division:")
-            ]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [_vm._v("Area:")]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  District:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [_vm._v("Title:")]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Postal Code:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Product Line:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "" }
-            })
-          ])
-        ])
-      ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c(
-      "div",
-      { staticClass: "col-lg-6", staticStyle: { padding: "15px" } },
-      [
-        _c(
-          "h5",
-          { staticClass: "text-main", staticStyle: { "font-weight": "bold" } },
-          [
-            _c("i", { staticClass: "fa fa-address-card-o" }),
-            _vm._v(" Salesman Setup\n          ")
-          ]
-        )
-      ]
-    )
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "row" }, [
-      _c("div", { staticClass: "col-sm-3" }, [
-        _c(
-          "h4",
-          {
-            staticStyle: {
-              "font-weight": "bold",
-              "text-decoration": "underline"
-            }
-          },
-          [_vm._v("\n              Information\n            ")]
-        ),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                First name:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", {
-            staticClass: "form-control",
-            attrs: { type: "text", id: "", value: "Angelito" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Last name:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", {
-            staticClass: "form-control",
-            attrs: { type: "text", value: "Ugat" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Username:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", {
-            staticClass: "form-control",
-            attrs: { type: "text", value: "angelpink" }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "form-group" }, [
-          _c("label", { staticClass: "control-label" }, [
-            _vm._v("\n                Password:\n                "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-          ]),
-          _vm._v(" "),
-          _c("input", {
-            staticClass: "form-control",
-            attrs: { type: "text", value: "******" }
-          })
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "col-sm-9" }, [
-        _c("div", { staticClass: "row" }, [
-          _c("div", { staticClass: "col-sm-4" }),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-sm-4" }, [
             _c(
-              "h4",
-              {
-                staticStyle: {
-                  "font-weight": "bold",
-                  "text-decoration": "underline"
-                }
-              },
-              [_vm._v("\n                  Location\n                ")]
+              "div",
+              { staticClass: "tab-pane fade", attrs: { id: "demo-lft-tab-2" } },
+              [
+                _c("div", { staticClass: "panel-body" }, [
+                  _c(
+                    "div",
+                    {
+                      staticClass: "row",
+                      staticStyle: { margin: "0px 0px 10px 0px" }
+                    },
+                    [_c("div", { staticClass: "col-lg-12" })]
+                  ),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "table-responsive" }, [
+                    _c(
+                      "table",
+                      {
+                        staticClass:
+                          "table table-bordered table-hover dt-responsive nowrap table-vcenter",
+                        attrs: { id: "unupdated_list", width: "100%" }
+                      },
+                      [
+                        _c("thead", [
+                          _c("tr", [
+                            _c("th", [_vm._v("Prdct Name")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Prdct Shrt Name")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Desc")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Company Code")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Option")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Item Code")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Barcode")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Brand")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Principal")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Product Family")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Keywords")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("UOM")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("List Price w/out Tax")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("List Price w/ Tax")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Conversion Qty")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Conversion UOM")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Image")])
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("tbody", [
+                          _c("tr", [
+                            _c("td", [
+                              _vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BW B CUP W GLZNE 2oz")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _vm._v("BW BAKING CUP WHITE GLAZZINE 2oz")
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("S0009")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn btn-xs btn-info btn-active-blue"
+                                },
+                                [_vm._v("Upload")]
+                              ),
+                              _vm._v("  \n                      "),
+                              _c("div", { staticClass: "btn-group dropdown" }, [
+                                _c(
+                                  "button",
+                                  {
+                                    staticClass:
+                                      "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
+                                    attrs: {
+                                      "data-toggle": "dropdown",
+                                      type: "button"
+                                    }
+                                  },
+                                  [
+                                    _vm._v(
+                                      "\n                          Active\n                          "
+                                    ),
+                                    _c("i", { staticClass: "dropdown-caret" })
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "ul",
+                                  {
+                                    staticClass:
+                                      "dropdown-menu dropdown-menu-right"
+                                  },
+                                  [
+                                    _c("li", [
+                                      _c(
+                                        "a",
+                                        {
+                                          staticStyle: { color: "blue" },
+                                          attrs: { href: "#" }
+                                        },
+                                        [_vm._v("Active")]
+                                      )
+                                    ]),
+                                    _vm._v(" "),
+                                    _c("li", [
+                                      _c(
+                                        "a",
+                                        {
+                                          staticStyle: { color: "red" },
+                                          attrs: { href: "#" }
+                                        },
+                                        [_vm._v("Inactive")]
+                                      )
+                                    ])
+                                  ]
+                                )
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("100053")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("2.20E+12")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BW BAKING CUP")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BAKING NEEDS")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BAKING CUPS")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("CASE96")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("385.714")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("432")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("96")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("BOX")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c("img", {
+                                staticStyle: { width: "60px", height: "60px" },
+                                attrs: { src: "assets/img/default_img.png" }
+                              })
+                            ])
+                          ])
+                        ])
+                      ]
+                    )
+                  ])
+                ])
+              ]
             )
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "col-sm-4" })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Email:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", value: "angelugat@gmail.com" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Telephone:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", value: "412-0000" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Mobile:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", value: "0910987654" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  User Code:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", value: "Test1234" }
-            })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Address:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "Baclayon" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Department:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "Corp IT" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("Division:")
-            ]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "Sys Dev" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [_vm._v("Area:")]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "East/Interior" }
-            })
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-sm-4" }, [
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  District:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "District I" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [_vm._v("Title:")]),
-            _vm._v(" "),
-            _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "IT Salesman" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Postal Code:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "6300" }
-            })
-          ]),
-          _vm._v(" "),
-          _c("div", { staticClass: "form-group" }, [
-            _c("label", { staticClass: "control-label" }, [
-              _vm._v("\n                  Product Line:\n                  "),
-              _c("span", { staticStyle: { color: "red" } }, [_vm._v("*")])
-            ]),
-            _vm._v(" "),
-            _c("input", {
-              staticClass: "form-control",
-              attrs: { type: "text", id: "", value: "All" }
-            })
           ])
         ])
       ])
@@ -21091,7 +18592,9 @@ var render = function() {
       ])
     ]),
     _vm._v(" "),
-    _vm._m(3)
+    _vm._m(3),
+    _vm._v(" "),
+    _vm._m(4)
   ])
 }
 var staticRenderFns = [
@@ -21111,7 +18614,7 @@ var staticRenderFns = [
       _vm._v(
         "\n          You can upload data files either product item masterfiles (LDI) or\n          payment terms (CCD).\n          "
       ),
-      _c("span", [_vm._v('Note: ".csv" file format only. ')])
+      _c("span", [_vm._v('Note: ".csv" file format only.')])
     ])
   },
   function() {
@@ -21133,11 +18636,71 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "panel" }, [
       _c("div", { staticClass: "panel-heading" }, [
-        _c("h3", { staticClass: "panel-title" }, [
-          _vm._v(
-            "\n          Basic Data Tables with responsive plugin\n        "
+        _c("h3", { staticClass: "panel-title" }, [_vm._v("History Log")])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "panel-body" }, [
+        _c("div", { staticClass: "table-responsive" }, [
+          _c(
+            "table",
+            {
+              staticClass:
+                "table table-bordered table-hover dt-responsive nowrap table-vcenter",
+              attrs: { id: "data_logs", width: "100%" }
+            },
+            [
+              _c("thead", [
+                _c("tr", [
+                  _c("th", [_vm._v("Item Update Logs")]),
+                  _vm._v(" "),
+                  _c("th", [_vm._v("From Date Uploaded")]),
+                  _vm._v(" "),
+                  _c("th", [_vm._v("To Date Uploaded")])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("tbody", [
+                _c("tr", [
+                  _c("td", { staticStyle: { color: "red" } }, [
+                    _vm._v(
+                      "BW BAKING CUP WHITE GLAZZINE 2oz has been change price from P385.714 to P395.00"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticStyle: { color: "red" } }, [
+                    _vm._v("06/29/2020")
+                  ]),
+                  _vm._v(" "),
+                  _c("td", { staticStyle: { color: "red" } }, [
+                    _vm._v("07/27/2020")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", { staticStyle: { color: "gray" } }, [
+                    _vm._v(
+                      "FREEDOM CIGARETTES 50s has been change price from P16250.00 to P16275.00"
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("07/20/2020")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("07/23/2020")])
+                ])
+              ])
+            ]
           )
         ])
+      ])
+    ])
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c("div", { staticClass: "panel" }, [
+      _c("div", { staticClass: "panel-heading" }, [
+        _c("h3", { staticClass: "panel-title" }, [_vm._v("Item Masterfiles")])
       ]),
       _vm._v(" "),
       _c("div", { staticClass: "panel-body" }, [
@@ -21162,9 +18725,9 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("th", [_vm._v("Item Code")]),
                   _vm._v(" "),
-                  _c("th", [_vm._v("Barcode")]),
-                  _vm._v(" "),
                   _c("th", [_vm._v("Option")]),
+                  _vm._v(" "),
+                  _c("th", [_vm._v("Barcode")]),
                   _vm._v(" "),
                   _c("th", [_vm._v("Brand")]),
                   _vm._v(" "),
@@ -21182,7 +18745,9 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("th", [_vm._v("Conversion Qty")]),
                   _vm._v(" "),
-                  _c("th", [_vm._v("Conversion UOM")])
+                  _c("th", [_vm._v("Conversion UOM")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("Image")])
                 ])
               ]),
               _vm._v(" "),
@@ -21198,9 +18763,13 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("td", [_vm._v("100053")]),
                   _vm._v(" "),
-                  _c("td", [_vm._v("2.20E+12")]),
-                  _vm._v(" "),
                   _c("td", [
+                    _c(
+                      "button",
+                      { staticClass: "btn btn-xs btn-info btn-active-blue" },
+                      [_vm._v("Upload")]
+                    ),
+                    _vm._v("  \n                  "),
                     _c("div", { staticClass: "btn-group dropdown" }, [
                       _c(
                         "button",
@@ -21247,15 +18816,15 @@ var staticRenderFns = [
                     ])
                   ]),
                   _vm._v(" "),
+                  _c("td", [_vm._v("2.20E+12")]),
+                  _vm._v(" "),
                   _c("td", [_vm._v("BW BAKING CUP")]),
                   _vm._v(" "),
                   _c("td", [_vm._v("BEST WAY GENERAL MDSE.")]),
                   _vm._v(" "),
                   _c("td", [_vm._v("BAKING NEEDS")]),
                   _vm._v(" "),
-                  _c("td", [
-                    _vm._v("\n                  BAKING CUPS\n                ")
-                  ]),
+                  _c("td", [_vm._v("BAKING CUPS")]),
                   _vm._v(" "),
                   _c("td", [_vm._v("CASE96")]),
                   _vm._v(" "),
@@ -21265,7 +18834,106 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("td", [_vm._v("96")]),
                   _vm._v(" "),
-                  _c("td", [_vm._v("BOX")])
+                  _c("td", [_vm._v("BOX")]),
+                  _vm._v(" "),
+                  _c("td", [
+                    _c("img", {
+                      staticStyle: { width: "60px", height: "60px" },
+                      attrs: { src: "assets/img/default_img.png" }
+                    })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("tr", [
+                  _c("td", [_vm._v("ENFAGROW A+ KID/FOUR 350G")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("ENFA A+ KID/4 350G")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("ENFAGROW A+ KID/FOUR 350G")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("S0671")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("100801")]),
+                  _vm._v(" "),
+                  _c("td", [
+                    _c(
+                      "button",
+                      { staticClass: "btn btn-xs btn-info btn-active-blue" },
+                      [_vm._v("Change")]
+                    ),
+                    _vm._v("  \n                  "),
+                    _c("div", { staticClass: "btn-group dropdown" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass:
+                            "btn btn-xs btn-info btn-active-blue dropdown-toggle dropdown-toggle-icon",
+                          attrs: { "data-toggle": "dropdown", type: "button" }
+                        },
+                        [
+                          _vm._v(
+                            "\n                      Active\n                      "
+                          ),
+                          _c("i", { staticClass: "dropdown-caret" })
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c(
+                        "ul",
+                        { staticClass: "dropdown-menu dropdown-menu-right" },
+                        [
+                          _c("li", [
+                            _c(
+                              "a",
+                              {
+                                staticStyle: { color: "blue" },
+                                attrs: { href: "#" }
+                              },
+                              [_vm._v("Active")]
+                            )
+                          ]),
+                          _vm._v(" "),
+                          _c("li", [
+                            _c(
+                              "a",
+                              {
+                                staticStyle: { color: "red" },
+                                attrs: { href: "#" }
+                              },
+                              [_vm._v("Inactive")]
+                            )
+                          ])
+                        ]
+                      )
+                    ])
+                  ]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("8.71E+12")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("ENFAGROW")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("MEAD JOHNSONS PHILS.")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("BABY FORMULA")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("GROWING UP MILK")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("CS12")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("4060.71")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("4548")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("12")]),
+                  _vm._v(" "),
+                  _c("td", [_vm._v("BOX")]),
+                  _vm._v(" "),
+                  _c("td", [
+                    _c("img", {
+                      staticStyle: { width: "60px", height: "60px" },
+                      attrs: { src: "assets/img/210001_BOX.jpg" }
+                    })
+                  ])
                 ])
               ])
             ]
